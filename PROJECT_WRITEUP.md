@@ -15,7 +15,7 @@ Truffle is used to configure the project for ease-of-use and the ability to cons
 
 ## IPFS
 
-**TODO**
+IPFS was not used for this project.
 
 ## Steps
 
@@ -29,4 +29,11 @@ To run a local version of this project, follow the following steps:
 
 ## Contract Addresses (Rinkeby)
 
-**TODO**
+Contract Address: 0x8BdDb4709AC66cDA38D0BcE07e4F0B6b9360aC09
+TXN Hash: 0x817dc57fafe1864c780274d58528b705ddc290a4988b2d95f75b68dc4cb76ee6
+
+## Version Numbers
+- Node: v12.22.12
+- Truffle: v4.1.14 
+- Web3: 1.2.1
+- Project: b6c8ca0871bc22ffe4e3cd3d7f4d3a03f230d295 (commit hash)
