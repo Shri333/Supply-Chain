@@ -35,5 +35,5 @@ To run a local version of this project, follow the following steps:
 ## Version Numbers
 - Node: v12.22.12
 - Truffle: v4.1.14 
-- Web3: 1.2.1
+- Web3: v1.2.1
 - Project: b6c8ca0871bc22ffe4e3cd3d7f4d3a03f230d295 (commit hash)
