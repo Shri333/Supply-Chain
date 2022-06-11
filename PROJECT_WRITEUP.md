@@ -29,8 +29,8 @@ To run a local version of this project, follow the following steps:
 
 ## Contract Addresses (Rinkeby)
 
-Contract Address: 0x8BdDb4709AC66cDA38D0BcE07e4F0B6b9360aC09
-TXN Hash: 0x817dc57fafe1864c780274d58528b705ddc290a4988b2d95f75b68dc4cb76ee6
+- Contract Address: 0x8BdDb4709AC66cDA38D0BcE07e4F0B6b9360aC09
+- TXN Hash: 0x817dc57fafe1864c780274d58528b705ddc290a4988b2d95f75b68dc4cb76ee6
 
 ## Version Numbers
 - Node: v12.22.12
